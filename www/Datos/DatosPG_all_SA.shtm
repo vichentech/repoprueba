@@ -1,0 +1,18 @@
+{
+    "Fecha": [<%#TagSSI,SA_yearmes%>,<%#TagSSI,SA_diahora%>,<%#TagSSI,SA_minseg%>],
+    "SA":
+    {
+        "PG_PAspValor":<%#TagSSI,SA_PAsp%>,
+        "Balsa":{   "ValPorcen":<%#TagSSI,SA_BalsaNivPorcen%>,
+                    "Vacia":<%#TagSSI,SA_AlarBalsaVacia%>  },
+        "PG_MinPotMarcha":<%#TagSSI,SA_PG_PotMinMarcha%>,
+        "PG_ConservarEnergia":<%#TagSSI,SA_PG_ConservarEnergia%>,
+        "PG_PAsp":<%#TagSSI,SA_PG_PAsp%>,
+        "PG_RecupPAsp":<%#TagSSI,SA_PG_RecupPAsp%>,
+        "PG_TubVacia":<%#TagSSI,SA_PTubVacia%>,
+        "PG_TMaxNoPLle":<%#TagSSI,SA_TMaxNoPLe%>,
+        "PG_NumMaxBom":<%#TagSSI,SA_NumMaxBom%>,
+        "PG_MaxQBom":<%#TagSSI,SA_MaxQBom%>,
+        "PG_Sobrepre":<%#TagSSI,SA_Sobrepre%>
+    }
+}
