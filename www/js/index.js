@@ -90,7 +90,7 @@ $(document).ready(function(){
             })
             */
             txt=JSON.stringify(msj);
-            $('#dato').text(txt)
+            $('#dato').text(txt);
             $('#estado').html("Recuperando JSON...");
             
     });
